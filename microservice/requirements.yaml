@@ -1,0 +1,5 @@
+dependencies:
+  - name: microservice
+    version: 0.0.1
+    repository: >-
+      https://artifactory-tools.apps.cluster-c9bx8.c9bx8.sandbox135.opentlc.com/artifactory/generic-local/toolkit-cicd
