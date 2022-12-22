@@ -1,4 +1,4 @@
 dependencies:
   - name: microservice
-    version: 0.0.83
+    version: 0.0.88
     repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/toolkit-go-microservice
