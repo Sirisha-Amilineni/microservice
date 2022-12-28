@@ -1,4 +1,4 @@
 dependencies:
   - name: microservice
-    version: 0.0.102
+    version: 0.0.103
     repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/go-microservice-dev
