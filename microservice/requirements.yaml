@@ -1,4 +1,4 @@
 dependencies:
   - name: microservice
-    version: 0.0.216
-    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/microservice-development
+    version: 0.0.219
+    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/microservice-dev
